@@ -1,0 +1,12 @@
+D:\Basic Network Programming\CardsGame\MessageType\bin\Debug\MessageType.dll
+D:\Basic Network Programming\CardsGame\MessageType\bin\Debug\MessageType.pdb
+D:\Basic Network Programming\CardsGame\MessageType\obj\Debug\PacketProperties.csproj.CoreCompileInputs.cache
+D:\Basic Network Programming\CardsGame\MessageType\obj\Debug\MessageType.dll
+D:\Basic Network Programming\CardsGame\MessageType\obj\Debug\MessageType.pdb
+D:\Basic Network Programming\CardsGame\MessageType\obj\Debug\PacketProperties.csprojAssemblyReference.cache
+D:\Basic Network Programming\CardGameWF\CardGameWF\MessageType\bin\Debug\MessageType.dll
+D:\Basic Network Programming\CardGameWF\CardGameWF\MessageType\bin\Debug\MessageType.pdb
+D:\Basic Network Programming\CardGameWF\CardGameWF\MessageType\obj\Debug\PacketProperties.csprojAssemblyReference.cache
+D:\Basic Network Programming\CardGameWF\CardGameWF\MessageType\obj\Debug\PacketProperties.csproj.CoreCompileInputs.cache
+D:\Basic Network Programming\CardGameWF\CardGameWF\MessageType\obj\Debug\MessageType.dll
+D:\Basic Network Programming\CardGameWF\CardGameWF\MessageType\obj\Debug\MessageType.pdb

@@ -1,0 +1,17 @@
+D:\Basic Network Programming\CardGameWF\CardGameWF\obj\Debug\CardGameWF.csprojAssemblyReference.cache
+D:\Basic Network Programming\CardGameWF\CardGameWF\obj\Debug\CardGameWF.exe
+D:\Basic Network Programming\CardGameWF\CardGameWF\obj\Debug\CardGameWF.pdb
+D:\Basic Network Programming\CardGameWF\CardGameWF\bin\Debug\CardGameWF.exe.config
+D:\Basic Network Programming\CardGameWF\CardGameWF\bin\Debug\CardGameWF.exe
+D:\Basic Network Programming\CardGameWF\CardGameWF\bin\Debug\CardGameWF.pdb
+D:\Basic Network Programming\CardGameWF\CardGameWF\obj\Debug\CardGameWF.Form1.resources
+D:\Basic Network Programming\CardGameWF\CardGameWF\obj\Debug\CardGameWF.Properties.Resources.resources
+D:\Basic Network Programming\CardGameWF\CardGameWF\obj\Debug\CardGameWF.csproj.GenerateResource.cache
+D:\Basic Network Programming\CardGameWF\CardGameWF\obj\Debug\CardGameWF.csproj.CoreCompileInputs.cache
+D:\Basic Network Programming\CardGameWF\CardGameWF\bin\Debug\Cards.dll
+D:\Basic Network Programming\CardGameWF\CardGameWF\bin\Debug\Message.dll
+D:\Basic Network Programming\CardGameWF\CardGameWF\bin\Debug\MessageType.dll
+D:\Basic Network Programming\CardGameWF\CardGameWF\bin\Debug\Cards.pdb
+D:\Basic Network Programming\CardGameWF\CardGameWF\bin\Debug\MessageType.pdb
+D:\Basic Network Programming\CardGameWF\CardGameWF\bin\Debug\Message.pdb
+D:\Basic Network Programming\CardGameWF\CardGameWF\obj\Debug\CardGameWF.csproj.CopyComplete

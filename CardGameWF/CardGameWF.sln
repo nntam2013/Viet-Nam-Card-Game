@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGameWF", "CardGameWF\CardGameWF.csproj", "{5FDA7A6C-239A-4CF4-888C-AC0A7E21AB9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "CardGameWF\Cards\Cards.csproj", "{BACDAE3E-59F4-4769-94D8-17D8420A4DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacketData", "CardGameWF\Message\PacketData.csproj", "{9AA05C39-3B6E-4545-9554-15CE3E9107AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacketProperties", "CardGameWF\MessageType\PacketProperties.csproj", "{4ECF86D7-2122-4C14-B790-02292FE35A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FDA7A6C-239A-4CF4-888C-AC0A7E21AB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDA7A6C-239A-4CF4-888C-AC0A7E21AB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDA7A6C-239A-4CF4-888C-AC0A7E21AB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDA7A6C-239A-4CF4-888C-AC0A7E21AB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACDAE3E-59F4-4769-94D8-17D8420A4DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACDAE3E-59F4-4769-94D8-17D8420A4DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACDAE3E-59F4-4769-94D8-17D8420A4DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACDAE3E-59F4-4769-94D8-17D8420A4DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA05C39-3B6E-4545-9554-15CE3E9107AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA05C39-3B6E-4545-9554-15CE3E9107AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA05C39-3B6E-4545-9554-15CE3E9107AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA05C39-3B6E-4545-9554-15CE3E9107AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ECF86D7-2122-4C14-B790-02292FE35A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECF86D7-2122-4C14-B790-02292FE35A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECF86D7-2122-4C14-B790-02292FE35A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECF86D7-2122-4C14-B790-02292FE35A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB328FDC-E3BA-4C6B-A712-F0867CE5DCD8}
+	EndGlobalSection
+EndGlobal
